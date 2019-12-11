@@ -5,23 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Dodge_Crusader"
         mc:Ignorable="d"
-        Title="Dodge Crusader" Height="720" Width="720" MinWidth="720" MinHeight="720" MaxWidth="720" MaxHeight="720" >
+        Title="MainWindow" Height="720" Width="720" MinWidth="720" MinHeight="720" MaxWidth="720" MaxHeight="720" >
     <Window.Resources>
-
+        
     </Window.Resources>
-    <Window.Background>
-        <ImageBrush ImageSource="M_BG.jpg" Stretch="UniformToFill"/>
-    </Window.Background>
-
+    
     <Grid >
-        <Button x:Name="btn_start" Content="Commencer" HorizontalAlignment="Left" Margin="120,71,0,0" VerticalAlignment="Top" Width="162" Height="54" BorderBrush="Cyan" Foreground="#FF0EE4BD" FontFamily="Agency FB" FontWeight="Bold" FontSize="36" Click="Button_Click" Background="#16FFFFFF"/>
-        <Button x:Name="btn_exit" Content="Quitter" HorizontalAlignment="Left" Margin="120,247,0,0" VerticalAlignment="Top" Width="162" Height="54" BorderBrush="Cyan" Foreground="#FF0EE4BD" FontFamily="Agency FB" FontWeight="Bold" FontSize="36" Click="btn_exit_Click" Background="#16FFFFFF"/>
-        <Label x:Name="lbl_heroOverview" Content="Label" HorizontalAlignment="Left" Margin="496,35,0,0" VerticalAlignment="Top" Height="306" Width="170">
-            <Label.Background>
-                <ImageBrush ImageSource="Hero.png" Stretch="UniformToFill"/>
-            </Label.Background>
-        </Label>
-        <Label x:Name="lbl_TdesScores" Content="Tableau des scores" HorizontalAlignment="Center" Margin="1,496,0,0" VerticalAlignment="Top" Height="50" Width="711" BorderBrush="Cyan" Foreground="#FF340D29" FontFamily="Agency FB" FontWeight="Bold" FontSize="36" Background="#16FFFFFF" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button x:Name="btn_start" Content="Commencer" HorizontalAlignment="Left" Margin="102,79,0,0" VerticalAlignment="Top" Width="162" Height="54" Click="Button_Click"/>
+        <Button x:Name="btn_exit" Content="Quitter" HorizontalAlignment="Left" Margin="120,247,0,0" VerticalAlignment="Top" Width="144" Height="53" Click="btn_exit_Click"/>
     </Grid>
-
+    
 </Window>
