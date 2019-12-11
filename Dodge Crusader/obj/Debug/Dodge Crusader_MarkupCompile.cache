@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\matthew.flenet\source\repos\Dodge Crusader\Dodge-Crusader\Dodge Crusader\obj\Debug\
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\
 Dodge_Crusader
 none
 false
 DEBUG;TRACE
-C:\Users\matthew.flenet\source\repos\Dodge Crusader\Dodge-Crusader\Dodge Crusader\App.xaml
-2-487028597
+H:\GitProject\Dodge-Crusader\Dodge Crusader\App.xaml
+3-1104038777
 
-61351894692
+7560961086
 14-1175798665
-Game.xaml;MainWindow.xaml;
+Game.xaml;GameOver.xaml;MainWindow.xaml;
 
 False
 

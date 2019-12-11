@@ -23,5 +23,10 @@ namespace Dodge_Crusader
         {
             InitializeComponent();
         }
+
+        private void btn_Exit_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
     }
 }

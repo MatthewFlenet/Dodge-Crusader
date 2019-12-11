@@ -10,7 +10,7 @@
         <Grid.Background>
             <ImageBrush ImageSource="GO_BG.jpg"/>
         </Grid.Background>
-        <Button x:Name="btn_Exit" Content="Quitter" HorizontalAlignment="Center" Margin="242,621,245,0" VerticalAlignment="Top" Width="226" Height="58" Background="#FF150312" BorderBrush="Cyan" Foreground="#FF0EE4BD" FontFamily="Agency FB" FontWeight="Bold" FontSize="36"/>
+        <Button x:Name="btn_Exit" Content="Quitter" HorizontalAlignment="Center" Margin="242,621,245,0" VerticalAlignment="Top" Width="226" Height="58" Background="#FF150312" BorderBrush="Cyan" Foreground="#FF0EE4BD" FontFamily="Agency FB" FontWeight="Bold" FontSize="36" Click="btn_Exit_Click"/>
 
     </Grid>
 </Window>

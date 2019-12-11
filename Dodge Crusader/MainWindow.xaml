@@ -11,10 +11,8 @@
     </Window.Resources>
     
     <Grid >
-        <Button Content="Button" HorizontalAlignment="Left" Margin="320,569,0,0" VerticalAlignment="Top" Width="162" Height="69" Click="Button_Click"/>
-
-
-
+        <Button x:Name="btn_start" Content="Commencer" HorizontalAlignment="Left" Margin="102,79,0,0" VerticalAlignment="Top" Width="162" Height="54" Click="Button_Click"/>
+        <Button x:Name="btn_exit" Content="Quitter" HorizontalAlignment="Left" Margin="120,247,0,0" VerticalAlignment="Top" Width="144" Height="53" Click="btn_exit_Click"/>
     </Grid>
     
 </Window>
