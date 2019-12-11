@@ -25,5 +25,12 @@ namespace Dodge_Crusader
             InitializeComponent();
             //test
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Game GameWindow = new Game(); // défini un nouveau window
+            GameWindow.Show(); // ouvre ce window
+            this.Close(); // ferme le window précédent
+        }
     }
 }

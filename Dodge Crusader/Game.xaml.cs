@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.Windows.Forms;
 
 namespace Dodge_Crusader
 {
@@ -22,6 +23,18 @@ namespace Dodge_Crusader
         public Game()
         {
             InitializeComponent();
+
+            
+
+
+
+
+
+
+
+
         }
+
+
     }
 }
