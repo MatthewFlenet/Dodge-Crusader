@@ -32,5 +32,12 @@ namespace Dodge_Crusader
             GameWindow.Show(); // ouvre ce window
             this.Close(); // ferme le window précédent
         }
+
+        private void btn_exit_Click(object sender, RoutedEventArgs e)
+        {
+            GameOver GameOverWindow = new GameOver(); // défini un nouveau window
+            GameOverWindow.Show(); // ouvre ce window
+            this.Close(); // ferme le window précédent
+        }
     }
 }

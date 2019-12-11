@@ -1,0 +1,16 @@
+﻿<Window x:Class="Dodge_Crusader.GameOver"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dodge_Crusader"
+        mc:Ignorable="d"
+        Title="GameOver" Height="720" Width="720" MinWidth="720" MinHeight="717" MaxWidth="720" MaxHeight="720">
+    <Grid HorizontalAlignment="Center" Width="713" Margin="0,0,-1,0" Height="689" VerticalAlignment="Center">
+        <Grid.Background>
+            <ImageBrush ImageSource="GO_BG.jpg"/>
+        </Grid.Background>
+        <Button x:Name="btn_Exit" Content="Quitter" HorizontalAlignment="Center" Margin="242,621,245,0" VerticalAlignment="Top" Width="226" Height="58" Background="#FF150312" BorderBrush="Cyan" Foreground="#FF0EE4BD" FontFamily="Agency FB" FontWeight="Bold" FontSize="36" Click="btn_Exit_Click"/>
+
+    </Grid>
+</Window>

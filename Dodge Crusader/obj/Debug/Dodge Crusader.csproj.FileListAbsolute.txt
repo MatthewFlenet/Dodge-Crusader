@@ -15,3 +15,22 @@ C:\Users\matthew.flenet\source\repos\Dodge Crusader\Dodge-Crusader\Dodge Crusade
 C:\Users\matthew.flenet\source\repos\Dodge Crusader\Dodge-Crusader\Dodge Crusader\obj\Debug\Dodge Crusader.csproj.CoreCompileInputs.cache
 C:\Users\matthew.flenet\source\repos\Dodge Crusader\Dodge-Crusader\Dodge Crusader\obj\Debug\Dodge Crusader.exe
 C:\Users\matthew.flenet\source\repos\Dodge Crusader\Dodge-Crusader\Dodge Crusader\obj\Debug\Dodge Crusader.pdb
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\Dodge Crusader.csprojResolveAssemblyReference.cache
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\Game.g.cs
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\GameOver.g.cs
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\MainWindow.g.cs
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\App.g.cs
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\Dodge Crusader_MarkupCompile.cache
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\Dodge Crusader_MarkupCompile.lref
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\Dodge Crusader.exe
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\Dodge Crusader.pdb
+H:\GitProject\Dodge-Crusader\Dodge Crusader\bin\Debug\Dodge Crusader.exe.config
+H:\GitProject\Dodge-Crusader\Dodge Crusader\bin\Debug\Dodge Crusader.exe
+H:\GitProject\Dodge-Crusader\Dodge Crusader\bin\Debug\Dodge Crusader.pdb
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\Game.baml
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\GameOver.baml
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\MainWindow.baml
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\Dodge Crusader.g.resources
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\Dodge_Crusader.Properties.Resources.resources
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\Dodge Crusader.csproj.GenerateResource.Cache
+H:\GitProject\Dodge-Crusader\Dodge Crusader\obj\Debug\Dodge Crusader.csproj.CoreCompileInputs.cache
